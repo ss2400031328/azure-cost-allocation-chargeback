@@ -1,0 +1,4 @@
+shared_resource,department,driver,percentage,allocated_cost
+shared-platform,CSE,Usage,50%,300.0
+shared-platform,AIML,Usage,30%,180.0
+shared-platform,IT,Usage,20%,120.0

@@ -1,0 +1,5 @@
+resource,department,cost_type,cost
+cse-storage,CSE,DIRECT,400
+aiml-storage,AIML,DIRECT,300
+it-storage,IT,DIRECT,200
+shared-platform,Shared,SHARED,600

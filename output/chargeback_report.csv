@@ -1,0 +1,4 @@
+department,direct_cost,allocation_percentage,shared_allocated,chargeback_total
+AIML,300,0.3,180.0,480.0
+CSE,400,0.5,300.0,700.0
+IT,200,0.2,120.0,320.0
